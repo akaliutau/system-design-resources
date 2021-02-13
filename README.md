@@ -82,8 +82,7 @@ Resources
 - [Secret Vault project](https://www.vaultproject.io/) | secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing, see also https://learn.hashicorp.com/vault/#getting-started
 - [Clair](https://github.com/coreos/clair) | an open source project for the static analysis of vulnerabilities in application containers
 - [KMS (Google)](https://cloud.google.com/kms/) | a dedicated service to manage encryption keys, Key Management Service
-- [AWS Security products](https://aws.amazon.com/products/security/) | 
-- [AirTasker](https://www.airtasker.com/careers/) | 
+- [AWS Security products](https://aws.amazon.com/products/security/) | amazon has the whole line of high-quality products tied with security
 
 ## Identity providers
 - [Keycloak](https://www.keycloak.org/) | an open source Identity and Access Management solution aimed at modern applications and services. It makes it easy to secure applications and services with little to no code.
