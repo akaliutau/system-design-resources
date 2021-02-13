@@ -53,7 +53,7 @@ Resources
 ==========
 
 # General topics
------------------
+---
 
 ## REST libraries/frameworks
 - [Apache CXF](https://cxf.apache.org/) | used to build and develop services using frontend programming APIs, like JAX-WS and JAX-RS
@@ -109,7 +109,7 @@ cloud environments including APIs, mobile, and Internet of Things devices
 - [SuperGloo](https://supergloo.solo.io/) | an open-source project to manage and orchestrate service meshes at scale.
 
 # Microservice cloud's components:
------------------------------------
+---
 
 ## Configuration
 - [Spring Cloud Config](https://spring.io/projects/spring-cloud-config) | built on top of the Spring Platform, then Spring Cloud Config is the one of the most accessible configuration management options to start with. It provides both server-side and client-side support (the communication is based on HTTP protocol), is exceptionally easy to integrate with and even to embed into existing services.
@@ -147,7 +147,7 @@ cloud environments including APIs, mobile, and Internet of Things devices
 
 
 # Observability:
------------------
+---
 
 ## Metrics
 - [Graphite](https://graphiteapp.org/) | is an enterprise-ready monitoring tool that runs equally well on cheap hardware or Cloud infrastructure to store, retrieve, share, and visualize timeseries data.
@@ -181,7 +181,7 @@ cloud environments including APIs, mobile, and Internet of Things devices
 
 
 # Testing:
------------
+---
 
 ## Unit Tesing
 - [Unit testing as a pattern](https://martinfowler.com/bliki/UnitTest.html) | definition of Unit Tesing
