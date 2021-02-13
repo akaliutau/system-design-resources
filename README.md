@@ -64,8 +64,8 @@ Resources
 
 ## Asynchronicity
 - [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming) | a standard for asynchronous stream processing with non-blocking back pressure, general information
-- [Spring WebFlux](https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html) | 
-- [AsyncHttpClient](https://github.com/AsyncHttpClient/async-http-client) | 
+- [Spring WebFlux](https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html) | Reactive programming for Spring Boot
+- [AsyncHttpClient](https://github.com/AsyncHttpClient/async-http-client) | lightweight async client for microservices
 
 ## Messaging
 - [Axon Framework](https://axoniq.io/) | a lightweight, open-source Java framework to build scalable, extensible event-driven applications
@@ -184,15 +184,15 @@ cloud environments including APIs, mobile, and Internet of Things devices
 -----------
 
 ## Unit Tesing
-- [Unit testing as a pattern](https://martinfowler.com/bliki/UnitTest.html) | 
+- [Unit testing as a pattern](https://martinfowler.com/bliki/UnitTest.html) | definition of Unit Tesing
 
 ## Integration Tesing
-- [Mockito](https://site.mockito.org/) | 
-- [Test containers](https://www.testcontainers.org/) | 
-- [Arquillian](https://arquillian.org/) | 
-- [Spring boot test](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-testing.html) | 
+- [Mockito](https://site.mockito.org/) | a java library for functional and internal integration testing
+- [Test containers](https://www.testcontainers.org/) | docker for integration testing
+- [Arquillian](https://arquillian.org/) | a java library for functional testing
+- [Spring boot test](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-testing.html) | integration tests for Spring Boot apps
 - [End-to-end testing](https://martinfowler.com/articles/practical-test-pyramid.html) | designed after the workflows performed by the users, from the beginning to the end
-- [Selenium](https://www.seleniumhq.org/) | 
+- [Selenium](https://www.seleniumhq.org/) | a framework for UI testing and RPA
 
 ## Load testing
 - [Apache Jmeter](https://jmeter.apache.org/) | the UI-based approach to create and manage quite sophisticated test plans, designed to load test functional behavior and measure performance.
@@ -202,7 +202,7 @@ cloud environments including APIs, mobile, and Internet of Things devices
 
 ## Security testing
 - [Sonar Qube](https://www.sonarqube.org/) | an open source platform to perform automatic reviews with static analysis of code to detect bugs, code smells and security vulnerabilities on 25+ programming languages including Java, C#, JavaScript, TypeScript, C/C++, COBOL and more
-- [PMD](https://pmd.com) | static analysis of vulnerabilities in source code
+- [PMD](https://github.com/pmd/pmd) | static analysis of vulnerabilities in source code
 - [Find security bugs](https://find-sec-bugs.github.io/) | code security audits for Java
 - [Zed Attack Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) | used to automatically find security vulnerabilities in web applications
 - [XSStrike](https://github.com/s0md3v/XSStrike) | a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and a fast crawler
@@ -210,8 +210,8 @@ cloud environments including APIs, mobile, and Internet of Things devices
 - [Security Monkey](https://github.com/Netflix/security_monkey) | monitors your AWS and GCP accounts for policy changes and alerts on insecure configurations
 
 ## Chaos Engineering
-- [Principles of chaos](https://principlesofchaos.org/) | 
-- [Chaos Engineering intro](https://blog.codecentric.de/en/2018/07/chaos-engineering/) | 
+- [Principles of chaos](https://principlesofchaos.org/) | definition of Chaos Engineering
+- [Chaos Engineering intro](https://blog.codecentric.de/en/2018/07/chaos-engineering/) | a very good intro
 
 
 
