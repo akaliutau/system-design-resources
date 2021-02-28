@@ -7,6 +7,8 @@ Total more than 100 resources aggregated
 
 I chose mostly those technologies created on the basis of Java/Scala, but this is a sort of personal choice - microservices, as well as all related services, can be written in any language. 
 
+You can extend this list see the [Contribution section](/CONTRIBUTING.md).
+
 Overview
 =========
 
