@@ -63,6 +63,7 @@ Resources
 - [Spark](https://sparkjava.com/) | a micro framework for creating web applications in Java with a minimal efforts, through DSL
 - [Play Framework](https://www.playframework.com/) | is a high velocity, hyper-productive web framework for Java and Scala, with powerful templating engine and other features
 - [Akka HTTP](https://akka.io/akka-http/) | a full server-side and client-side HTTP stack implemented on top of actor model
+- [Vert.x](https://vertx.io/docs/) | a tool-kit for building sophisticated modern asynchronous applications and HTTP microservices
 
 ## Asynchronicity
 - [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming) | a standard for asynchronous stream processing with non-blocking back pressure, general information
